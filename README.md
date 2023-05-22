@@ -2,8 +2,8 @@
 
 # Create key.js file with the following format:
 
-#module.exports = {
+# module.exports = {
 #    PLAID_CLIENT_ID: "INSERT CLIENT ID HERE",
 #    PLAID_SECRET: "INSERT SECRET KEY HERE"
-#};
+# };
 
